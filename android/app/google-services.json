@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "43147160658",
+    "firebase_url": "https://car-rental-app-31066-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "car-rental-app-31066",
+    "storage_bucket": "car-rental-app-31066.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43147160658:android:c8fa05824bed1b0a17438b",
+        "android_client_info": {
+          "package_name": "com.example.vehicle_sharing_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43147160658-7u9shnubihjk7fdg31341ihph7j3o5rj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHIfHsjCHx-wRLPoPOVEEuSOxA18pyaF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43147160658-7u9shnubihjk7fdg31341ihph7j3o5rj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "43147160658-5ppjbbefklncq2ffk7tmr9b6v4asspsr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.serigocarrental"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43147160658:android:b3516dbfce2dfae417438b",
+        "android_client_info": {
+          "package_name": "com.flutterflow.serigocarrental"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43147160658-7u9shnubihjk7fdg31341ihph7j3o5rj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHIfHsjCHx-wRLPoPOVEEuSOxA18pyaF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43147160658-7u9shnubihjk7fdg31341ihph7j3o5rj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "43147160658-5ppjbbefklncq2ffk7tmr9b6v4asspsr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.serigocarrental"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
